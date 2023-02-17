@@ -1,0 +1,13 @@
+{
+    "data": [
+        {   "id": 1,
+            "name": "Day1",
+            "pick" :[{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""} ]
+        },
+        {   "id": 2,
+        "name": "Day2",
+        "pick" :[{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""},{"time": "20:00", "league": "por", "Teams": "AROUCA - SANTA cLara", "Tips": "under 2.5", "odd": "1.59", "Fs": ""} ]
+    },
+        
+    ]
+}
